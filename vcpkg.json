@@ -1,0 +1,12 @@
+{
+    "name": "vtktutorial",
+    "version-string": "0.1-alpha",
+    "homepage": "https://examples.vtk.org/site/Cxx/Tutorial/",
+    "description": "VTK tutorials",
+    "dependencies": [
+        {
+            "name": "vtk",
+            "features": [ "opengl" ]
+        }
+    ]
+}
